@@ -1,0 +1,12 @@
+.todohead{
+    text-align: center;
+    background-color: rgb(44, 216, 216);
+    padding: 30px;
+    font-weight: bold;
+}
+.inputsheaddiv{
+    text-align: center;
+    background-color: rgb(44, 216, 216);
+    padding: 30px;
+    margin-top: -15px;
+}
